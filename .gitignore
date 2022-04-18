@@ -1,0 +1,7 @@
+# Ignorar carpeta
+
+node_modules/
+/vendor/
+src/
+CPL2020/
+CPSG2020/
