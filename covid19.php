@@ -18,7 +18,7 @@
     </div>
 
 
-  <header class="header h_acerca_de">
+  <header class="header h_acerca_de otro">
    
       <div class="titulo_pagina_nuevo row">
         <hgroup class="column contenedor__titulo">
